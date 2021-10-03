@@ -7,4 +7,5 @@
 <h1> I can't wait for you to start making big $$$$ doing this </h1>
 <h1> I will be glad knowing you start making big $$$$ doing this </h1>
 <h1> GOD BLESS! </h1>
-<h1> I made this change by typing thisb line here in my github console </h1>
+<h1> I made this change by typing this line here in my github console </h1>
+<h1> It works and I am so glad for that. Great! </h1>
